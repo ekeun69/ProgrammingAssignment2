@@ -1,3 +1,4 @@
+## learn to submit assignment through git bash to github repository
 ## Assignment2: to write a pair of functions that cache the inverse of a matrix.
 ## (To understand Lexical scoping)
 
